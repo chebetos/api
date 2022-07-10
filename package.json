@@ -22,7 +22,7 @@
     "chalk": "^2.4.1",
     "chmod": "^0.2.1",
     "cors": "^2.8.4",
-    "debug": "^3.1.0",
+    "debug": "^3.2.7",
     "express": "^4.16.3",
     "express-asyncify": "^1.0.0",
     "jsonfile": "^4.0.0",
